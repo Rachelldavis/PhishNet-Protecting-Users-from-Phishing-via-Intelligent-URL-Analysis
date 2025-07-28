@@ -26,5 +26,5 @@ Phishing is one of the most common cyberattacks in which users are tricked into 
 ---
 📊 Dataset
 
-- Source: [Phishing Website Dataset on Kaggle](https://www.kaggle.com/datasets)
+- Source: [Phishing Website Dataset on Kaggle](https://www.kaggle.com/datasets/sharmageetika/phishing-url-dataset)
 - Size: ~3000 rows with 50+ URL-based features
